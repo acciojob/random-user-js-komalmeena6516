@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+.user-photo{
+	width: 200px;
+	height: 200px;
+	border:1px solid black;
+	box-shadow: 5px 5px 3px darkblue;
+	margin:10px;
+	
+}
+
+button{
+	font-size: 20px;
+	padding: 5px 10px;
+	margin: 10px 5px ;
+	background-color: darkblue;
+	color:white;
+	border-radius: 10px;
+	
+}
+
+#getUser{
+	width:200px;
+}
